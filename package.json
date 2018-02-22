@@ -1,7 +1,7 @@
 {
-  "name": "elliptic",
-  "version": "6.4.0",
-  "description": "EC cryptography",
+  "name": "elliptic-cardano",
+  "version": "6.4.0-b",
+  "description": "EC cryptography fork",
   "main": "lib/elliptic.js",
   "files": [
     "lib"
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:indutny/elliptic"
+    "url": "git@github.com:vacuumlabs/elliptic"
   },
   "keywords": [
     "EC",
@@ -24,12 +24,12 @@
     "curve",
     "Cryptography"
   ],
-  "author": "Fedor Indutny <fedor@indutny.com>",
+  "author": "Fedor Indutny <fedor@indutny.com>, Jano Hreha <jan.hreha@vacuumlabs.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/indutny/elliptic/issues"
   },
-  "homepage": "https://github.com/indutny/elliptic",
+  "homepage": "https://github.com/vacuumlabs/elliptic",
   "devDependencies": {
     "brfs": "^1.4.3",
     "coveralls": "^2.11.3",
